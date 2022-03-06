@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cryptochat</string>
+    <string name="default_notification_channel_id">rn-push-notification-channel-id-4-300</string>
+</resources>
